@@ -1,0 +1,10 @@
+.imessage {
+    display: flex;
+}
+
+@media (max-width: 600px) {
+    .imessage {
+        display: block;
+        position: relative;
+    }
+}
